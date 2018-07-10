@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "855047949803",
+    "firebase_url": "https://homerentapplication.firebaseio.com",
+    "project_id": "homerentapplication",
+    "storage_bucket": "homerentapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855047949803:android:cea6d9bf9a5632b7",
+        "android_client_info": {
+          "package_name": "com.example.surindersingh.homerentapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855047949803-qd3fjmmf6ikitcgp5h5n5ut5q33g3osf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.surindersingh.homerentapplication",
+            "certificate_hash": "902444b85cd1dc5895142c7bd8c3eede870f9942"
+          }
+        },
+        {
+          "client_id": "855047949803-58gbnlvfvnsjas5j1hoj3rq9ae7p3aj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf7HV2DysQvicBcsE4NR8y6M4PJZ-tSjc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855047949803-58gbnlvfvnsjas5j1hoj3rq9ae7p3aj1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HomeRentApplication</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Home Rentals</string>
+    <string name="nav_header_subtitle">HomeRentals@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="Profile_tagline">Looking For a House</string>
+    <string name="txtCredits">Already have an Account? Sign in!</string>
+    <string name="registerText">Enter Your Details to Continue</string>
+</resources>
